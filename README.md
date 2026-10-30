@@ -64,5 +64,132 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aitwire-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aitwire.com/
+aitwire-com is a technology company that provides IoT connectivity solutions for industrial devices, enabling remote monitoring, data collection, and device management across various sectors such as manufacturing, energy, and logistics. Their platform offers secure, scalable APIs for device provisioning, telemetry ingestion, and command execution, supporting multiple protocols and integration with cloud services. The company focuses on delivering reliable, low-latency communication and robust analytics to help businesses optimize operations and improve asset utilization.
+
+**Areas:** Company · IoT · Connectivity · API · Industrial
+
+## aitwire-com on APIs.io
+
+Everything profiled for aitwire-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aitwire-com/](https://apis.io/providers/aitwire-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [aitwire-com API Keys API](https://apis.io/apis/aitwire-com/aitwire-com-api-keys-api/) — The API Keys API from aitwire-com — 2 operation(s) for api keys.
+- [aitwire-com Attribution API](https://apis.io/apis/aitwire-com/aitwire-com-attribution-api/) — The Attribution API from aitwire-com — 1 operation(s) for attribution.
+- [aitwire-com Authority API](https://apis.io/apis/aitwire-com/aitwire-com-authority-api/) — The Authority API from aitwire-com — 1 operation(s) for authority.
+- [aitwire-com Billing API](https://apis.io/apis/aitwire-com/aitwire-com-billing-api/) — The Billing API from aitwire-com — 1 operation(s) for billing.
+- [aitwire-com Drift API](https://apis.io/apis/aitwire-com/aitwire-com-drift-api/) — The Drift API from aitwire-com — 1 operation(s) for drift.
+- [aitwire-com Entities API](https://apis.io/apis/aitwire-com/aitwire-com-entities-api/) — The Entities API from aitwire-com — 2 operation(s) for entities.
+- [aitwire-com Scans API](https://apis.io/apis/aitwire-com/aitwire-com-scans-api/) — The Scans API from aitwire-com — 2 operation(s) for scans.
+- [aitwire-com Webhooks API](https://apis.io/apis/aitwire-com/aitwire-com-webhooks-api/) — The Webhooks API from aitwire-com — 3 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aitwire Com Agentic Access](https://apis.io/agentic-access/aitwire-com/aitwire-com-agentic-access/)
+
+#### JSON Schema (3)
+
+The data models the API reads and writes.
+
+- [Entity](https://apis.io/schemas/aitwire-com/aitwire-com-entity/)
+- [ScanRun](https://apis.io/schemas/aitwire-com/aitwire-com-scan-run/)
+- [UsageStats](https://apis.io/schemas/aitwire-com/aitwire-com-usage-stats/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aitwire Com Context](https://apis.io/jsonld/aitwire-com/aitwire-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Aitwire Com Openapi Overlay](https://apis.io/overlays/aitwire-com/aitwire-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [aitwire-com API Rules](https://apis.io/rules/aitwire-com/aitwire-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aitwire Com Authentication](https://apis.io/security/aitwire-com/aitwire-com-authentication/)
+- [Aitwire Com Domain Security](https://apis.io/security/aitwire-com/aitwire-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aitwire.com/)
+- [Documentation](https://aitwire.com/docs/developer-portal)
+- [Support](https://help.aitwire.com/)
+- [Blog](https://aitwire.com/blog)
+- [Security](https://aitwire.com/security)
+- [Terms of service](https://aitwire.com/terms)
+- [Privacy policy](https://aitwire.com/privacy)
+- [Status](https://status.aitwire.com/)
+
+## API Evangelist rating
+
+**Kin Score 49.3** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 56.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 34.2 |
+
+**Agent readiness 45.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aitwire-com/](https://apis.io/providers/aitwire-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for aitwire-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aitwire-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
